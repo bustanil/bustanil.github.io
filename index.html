@@ -1,6 +1,14 @@
 ---
 layout: home
-title: Bustanil's Blog
+title: Bustanil Notes
 ---
 
-This is home {{site.pages}}
+<h2> Daftar isi </h2>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
