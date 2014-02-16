@@ -2,13 +2,12 @@
 layout: home
 title: Bustanil Notes
 ---
-
-<h2> Daftar isi </h2>
-
-<ul>
+<ul style="list-style-type: none">
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+      <p><i>{{ post.date | date: "%d/%m/%Y" }}</i></p>
+      <p>{{ post.excerpt }}</p> <a href="{{ post.url }}">Baca selebihnya...</a>
     </li>
   {% endfor %}
 </ul>
