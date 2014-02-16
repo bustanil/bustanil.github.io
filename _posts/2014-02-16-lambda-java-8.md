@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Functional Programming di Java 8 dengan Lambda
+tags: java
 ---
 
 Lambda adalah fitur Java 8 yang paling ditunggu-tunggu. Setelah batal diimplementasikan di Java 7, akhirnya fitur ini akan hadir di Java 8.

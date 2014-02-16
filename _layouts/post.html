@@ -29,7 +29,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/index.html">Home</a>
+                <a class="navbar-brand" href="/index.html">Index</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -56,7 +56,7 @@
         <div class="row">
             <div class="col-lg-8">
                 <h2>{{ page.title }}</h2>
-                <p><i>{{ page.date | date: "%d/%m/%Y" }}</i></p>
+                <p><i>{{ page.date | date: "%d/%m/%Y" }} - tags: {{ page.tags }}</i></p>
                 {{ content }}
                 
                 Mari berdiskusi:
