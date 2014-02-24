@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cara Cepat Membuat Project Java dengan Maven
-tags: java,maven
+tags: java maven
 ---
 
 [Maven](http://maven.apache.org/) sudah lama dikenal oleh programmer Java untuk mengelola dependency atas library-library yang digunakan oleh sebuah aplikasi. Namun sebenarnya ada satu fitur Maven yang juga sangat bermanfaat terutama saat kita hendak membuat project Java baru yaitu fitur Archetype.
