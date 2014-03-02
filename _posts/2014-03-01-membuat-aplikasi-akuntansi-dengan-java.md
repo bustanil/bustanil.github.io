@@ -14,13 +14,14 @@ Semangat pun timbul untuk belajar akuntansi kembali. Saya segera bergegas ke tok
 
 ![Akuntansi itu ternyata Logis dan Mudah](https://dl.dropboxusercontent.com/u/7031801/WP_000471.jpg)
 
-Singkat cerita saya sudah baca bukunya sampai lecek, tapi sebagai seorang programmer saya pun punya ide untuk membuat sebuah aplikasi akuntansi sederhana berbasis web dengan Java. Saya akan coba pendekatan [Test Driven Development](http://en.wikipedia.org/wiki/Test-driven_development) dalam membuat aplikasi ini.
+Singkat cerita saya sudah baca bukunya dan sudah hampir selesai, dan sebagai seorang programmer saya pun punya ide untuk membuat sebuah aplikasi akuntansi sederhana berbasis web dengan Java.
 
 Artikel ini akan dibagi atas lima bagian:
-1. Persiapan project
-2. Membuat domain model
+
+1. [Persiapan project](/2014/03/02/membuat-aplikasi-akuntansi-dengan-java-persiapan.html)
+2. Merancang domain model
 3. Menambahkan logic
 4. Membuat laporan dengan Jasper Report
 5. Membuat tampilan web
 
-[Lanjut ke setup project]()
+[Lanjut ke persiapan project](/2014/03/02/membuat-aplikasi-akuntansi-dengan-java-persiapan.html)
