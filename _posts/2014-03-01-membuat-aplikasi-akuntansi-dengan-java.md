@@ -19,9 +19,10 @@ Singkat cerita saya sudah baca bukunya dan sudah hampir selesai, dan sebagai seo
 Artikel ini akan dibagi atas lima bagian:
 
 1. [Persiapan project](/2014/03/02/membuat-aplikasi-akuntansi-dengan-java-persiapan.html)
-2. Merancang domain model
-3. Menambahkan logic
-4. Membuat laporan dengan Jasper Report
-5. Membuat tampilan web
+2. [Sekilas akuntansi](/2014/03/18/sekilas-akuntansi.html)
+3. Merancang domain model
+4. Menambahkan logic
+5. Membuat laporan dengan Jasper Report
+6. Membuat tampilan web
 
-[Lanjut ke persiapan project](/2014/03/02/membuat-aplikasi-akuntansi-dengan-java-persiapan.html)
+Lanjut ke [persiapan project](/2014/03/02/membuat-aplikasi-akuntansi-dengan-java-persiapan.html)
