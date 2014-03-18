@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sekilas Akuntansi
+title: Membuat aplikasi akuntansi sederhana dengan Java (2) - Sekilas Akuntansi
 tags: java akuntansi
 ---
 
