@@ -14,13 +14,13 @@ Semangat pun timbul untuk belajar akuntansi kembali. Saya segera bergegas ke tok
 
 ![Akuntansi itu ternyata Logis dan Mudah](https://dl.dropboxusercontent.com/u/7031801/WP_000471.jpg)
 
-Singkat cerita saya sudah baca bukunya dan sudah hampir selesai, dan sebagai seorang programmer saya pun punya ide untuk membuat sebuah aplikasi akuntansi sederhana berbasis web dengan Java.
+Singkat cerita saya sudah baca bukunya dan sudah hampir selesai, dan sebagai seorang programmer saya pun punya ide untuk membuat sebuah aplikasi akuntansi perusahaan dagang sederhana berbasis web dengan Java.
 
 Artikel ini akan dibagi atas lima bagian:
 
 1. [Persiapan project](/2014/03/02/membuat-aplikasi-akuntansi-dengan-java-persiapan.html)
 2. [Sekilas akuntansi](/2014/03/18/sekilas-akuntansi.html)
-3. Merancang domain model
+3. [Merancang domain model](/2014/03/26/membuat-aplikasi-akuntansi-dengan-java-domain-model.html)
 4. Menambahkan logic
 5. Membuat laporan dengan Jasper Report
 6. Membuat tampilan web
