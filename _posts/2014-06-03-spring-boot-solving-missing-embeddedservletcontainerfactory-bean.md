@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Boot: Solving 'missing EmbeddedServletContainerFactory bean'
+title: Spring Boot - Solving 'missing EmbeddedServletContainerFactory bean'
 tags: spring java
 ---
 
