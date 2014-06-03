@@ -60,3 +60,6 @@ And it runs perfectly now.
 	2014-06-03 23:34:25.286  INFO 7796 - [main] RmiServiceExporter : Binding service 'PersonService' to RMI registry: RegistryImpl[UnicastServerRef [liveRef: [endpoint:[10.195.93.94:1199](local),objID:[0:0:0, 0]]]]
 	2014-06-03 23:34:25.467  INFO 7796 - [main] AnnotationMBeanExporter : Registering beans for JMX exposure on startup
 	2014-06-03 23:34:25.487  INFO 7796 - [main] AppServer : Started AppServer in 2.407 seconds (JVM running for 2.769)
+
+
+Sample source code can be found here: https://github.com/bustanil/rmi_demo
