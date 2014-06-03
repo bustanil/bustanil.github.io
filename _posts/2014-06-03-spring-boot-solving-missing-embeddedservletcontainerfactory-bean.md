@@ -4,7 +4,7 @@ title: Spring Boot - Solving 'missing EmbeddedServletContainerFactory bean'
 tags: spring java
 ---
 
-Spring Boot is a great addition to already complete Java enterprise solution. It helps developers by making it easier to setup and pack Spring-based applications.
+Spring Boot is a great addition to an already complete Spring based Java enterprise solution. It helps developers by making it easier to setup and pack Spring-based applications.
 
 I am trying to migrate one of my Spring application to utilize Spring Boot. This application uses Spring Remoting module to export services as RMI services. RMI does not need web server so I use `spring-boot-starter` as my starter.
 
