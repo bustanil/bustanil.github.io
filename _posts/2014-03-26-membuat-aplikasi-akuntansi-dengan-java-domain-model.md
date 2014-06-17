@@ -34,7 +34,7 @@ public class Account {
 }
 {% endhighlight %}
 
-Class **TransactionType** merepresentasikan jenis transaksi yang mungkin terjadi di sistem, misalnya transaksi 'Penjualan Tunai'. Setiap jenis transaksi melibatkan dua akun. Konfigurasi akun-akun yang terlibat didefinisikan pada atribut involvedAccounts.
+Class `TransactionType` merepresentasikan jenis transaksi yang mungkin terjadi di sistem, misalnya transaksi 'Penjualan Tunai'. Setiap jenis transaksi melibatkan dua akun. Konfigurasi akun-akun yang terlibat didefinisikan pada field `involvedAccounts`.
 
 {% highlight java %}
 package com.bustanil.easyaccounting.model;
@@ -107,7 +107,7 @@ public class Journal {
 }
 {% endhighlight %}
 
-Class **JournalEntry** berisi detil dari rekaman transaksi.
+Class **JournalEntry** berisi detil entri dari sebuah jurnal.
 
 {% highlight java %}
 package com.bustanil.easyaccounting.model;

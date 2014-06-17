@@ -16,13 +16,13 @@ Semangat pun timbul untuk belajar akuntansi kembali. Saya segera bergegas ke tok
 
 Singkat cerita saya sudah baca bukunya dan sudah hampir selesai, dan sebagai seorang programmer saya pun punya ide untuk membuat sebuah aplikasi akuntansi perusahaan dagang sederhana berbasis web dengan Java.
 
-Artikel ini akan dibagi atas lima bagian:
+Artikel ini akan dibagi atas enam bagian:
 
 1. [Persiapan project](/2014/03/02/membuat-aplikasi-akuntansi-dengan-java-persiapan.html)
 2. [Sekilas akuntansi](/2014/03/18/sekilas-akuntansi.html)
 3. [Merancang domain model](/2014/03/26/membuat-aplikasi-akuntansi-dengan-java-domain-model.html)
-4. Menambahkan logic
-5. Membuat laporan dengan Jasper Report
+4. [Menambahkan logic](/2014/06/17/membuat-aplikasi-akuntansi-dengan-java-business-logic.html)
+5. Menyimpan data ke database
 6. Membuat tampilan web
 
 Lanjut ke [persiapan project](/2014/03/02/membuat-aplikasi-akuntansi-dengan-java-persiapan.html)
