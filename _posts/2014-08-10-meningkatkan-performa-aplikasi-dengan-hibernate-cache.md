@@ -102,7 +102,15 @@ Berbeda dengan first-level cache yang sepenuhnya dikelola oleh Hibernate, pada s
 2. OSCache
 3. Memcached
 
-Pada artikel ini kita akan menggunakan "ehcache" sebagai cache provider. Untuk itu kita tambahkan dua property yaitu `hibernate.cache.use_second_level_cache` dan `hibernate.cache.region.factory_class` di konfigurasi session-factory kita di dalam file `hibernate.cfg.xml`.
+Pada artikel ini kita akan menggunakan "ehcache" sebagai cache provider. Langkah pertama adalah mendaftarkan dependency baru yaitu `hibernate-ehcache` di `pom.xml` kita. 
+
+    <dependency>
+        <groupId>org.hibernate</groupId>
+        <artifactId>hibernate-ehcache</artifactId>
+        <version>3.6.3.Final</version>
+    </dependency>
+
+Selanjutnya, kita tambahkan dua property yaitu `hibernate.cache.use_second_level_cache` dan `hibernate.cache.region.factory_class` di konfigurasi session-factory kita di dalam file `hibernate.cfg.xml`.
 
 	<?xml version="1.0" encoding="utf-8"?>
 	<!DOCTYPE hibernate-configuration PUBLIC
