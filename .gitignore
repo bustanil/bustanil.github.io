@@ -1,2 +1,10 @@
 _site/*
 _drafts/_site/*
+site/*
+posts/*
+.jekyll-cache/*
+.sass-cache/*
+Gemfile.lock
+bin/*
+package-lock.json
+
